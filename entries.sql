@@ -21,7 +21,7 @@ UPDATE
     entries
 SET
     content = 
-        'When I was about nine or ten, my Uncle Karl, who would've
+        "When I was about nine or ten, my Uncle Karl, who would've
 	been in his late teens or early twenties, once performed
 	what to me seemed like a magic trick.
 
