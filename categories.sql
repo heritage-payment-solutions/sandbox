@@ -7,7 +7,7 @@ INSERT INTO categories
     (category, name)
 VALUES
 	('blog', 'Log on to My Blog')
-,	('humor', 'Humorous Anecdotes')
+,   ('humor', 'Humorous Anecdotes')
 ,	('angst', 'Stories from the Id')
 ,	('advice', 'Gentle Words of Advice')
 ,	('science', 'Our Spectacular Universe')
