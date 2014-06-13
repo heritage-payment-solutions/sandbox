@@ -1,7 +1,7 @@
 CREATE TABLE entries (
     id         INTEGER       NOT NULL   PRIMARY KEY
 ,   title      VARCHAR(99)   NOT NULL
-,   reated    TIMESTAMP     NOT NULL
+,   reated     TIMESTAMP     NOT NULL
 ,   updated    TIMESTAMP     NULL
 ,   category   VARCHAR(37)   NULL
 ,   content    TEXT          NULL
