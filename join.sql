@@ -1,25 +1,25 @@
 CREATE TABLE A (
-	a   INT   NOT NULL
+    a   INT   NOT NULL
 );
 
 CREATE TABLE B (
-	b   INT   NOT NULL
+    b   INT   NOT NULL
 );
 
 INSERT INTO A 
-	(a)
+    (a)
 VALUES 
-	(102)
-,	(104)
-,	(106)
-,	(107)
+    (102)
+,   (104)
+,   (106)
+,   (107)
 ;
 INSERT INTO B 
-	(b)
+    (b)
 VALUES 
-	(101)
-,	(102)
-,	(104)
-,	(106)
-,	(108)
+    (101)
+,   (102)
+,   (104)
+,   (106)
+,   (108)
 ;
