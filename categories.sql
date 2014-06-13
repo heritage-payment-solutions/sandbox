@@ -1,7 +1,7 @@
 CREATE TABLE categories (
 	category   VARCHAR(9)   NOT NULL   PRIMARY KEY
 ,   name       VARCHAR(37)  NOT NULL
-);
+); 
 
 INSERT INTO categories
     (category, name)
